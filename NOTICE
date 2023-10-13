@@ -1,0 +1,9 @@
+Apache CMPUT404-assignment-web-client
+Copyright 2023 The Apache Software Foundation.
+
+Changes were made to httpclient.py in order to create
+a simple web-client like curl or wget
+
+This product includes software developed by the
+Python Software Foundation, Abram Hindle,
+https://github.com/tywtyw2002, and https://github.com/treedust.
